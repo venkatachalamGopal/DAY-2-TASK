@@ -1,0 +1,23 @@
+
+Q1 : Write a blog on Difference between HTTP1.1 vs HTTP2
+
+Answer : -
+HTTP means HYPER TEXT TRANSFER PROTOCOL
+HTTP 1.1  : wich is used to transfer the information between the client and server. using this HTTP1.1 we can send only one request at a time from browser to
+server ,have to wait for response.can not send multiple request at a single TCP connection.its taking time so its slow process.
+
+HTTP 2 : using this we send multiple request in single TCP connection from browser to server getting quick response and better performance.
+from 2015 onwards all browsers support this method.in this connection its used SPDY method .	
+
+Q2.Write a blog about objects and its internal representation in Javascript.
+
+Answer :-
+Objects : object is a realtime entitiy.in javascript its playing major role.
+Representation : in object we store multiple values in single variable as key and value pairs like "key": value; inside curly brackets {}
+                                  eamples ;  const person ={ "name":"venkat","no":236}
+Accesses : its properties can be accessed by two ways
+                     1.Dot notation ( .)
+                     2. Bracket notation []
+
+
+https://github.com/venkatachalamGopal/DAY-1-TASK/upload
